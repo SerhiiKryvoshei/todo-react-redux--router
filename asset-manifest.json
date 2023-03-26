@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/todo-react-redux--router/static/css/main.176d35e4.css",
+    "main.js": "/todo-react-redux--router/static/js/main.4fb8c636.js",
+    "static/media/SFProDisplay-Semibold.woff": "/todo-react-redux--router/static/media/SFProDisplay-Semibold.340c3a1a6dddb0b99476.woff",
+    "static/media/SFProDisplay-Medium.woff": "/todo-react-redux--router/static/media/SFProDisplay-Medium.7274e74c05adf47dbcd9.woff",
+    "static/media/SFProDisplay-Bold.woff": "/todo-react-redux--router/static/media/SFProDisplay-Bold.5b08afd6b167d7ec48ce.woff",
+    "static/media/SFProDisplay-Regular.woff": "/todo-react-redux--router/static/media/SFProDisplay-Regular.7ee14c637e39445d7093.woff",
+    "static/media/SFProDisplay-Semibold.woff2": "/todo-react-redux--router/static/media/SFProDisplay-Semibold.3926eb65ce4420a81930.woff2",
+    "static/media/SFProDisplay-Medium.woff2": "/todo-react-redux--router/static/media/SFProDisplay-Medium.22a99d36f90cc52d2914.woff2",
+    "static/media/SFProDisplay-Bold.woff2": "/todo-react-redux--router/static/media/SFProDisplay-Bold.84c242fe1f30a86d5ab3.woff2",
+    "static/media/SFProDisplay-Regular.woff2": "/todo-react-redux--router/static/media/SFProDisplay-Regular.d5ff9f6824d2c6607361.woff2",
+    "static/media/delete-todo.svg": "/todo-react-redux--router/static/media/delete-todo.2aa52e43acac9ce750f1.svg",
+    "index.html": "/todo-react-redux--router/index.html",
+    "static/media/add-todo.svg": "/todo-react-redux--router/static/media/add-todo.13632e8cc3044e7a78ee.svg",
+    "static/media/toggle-todo.svg": "/todo-react-redux--router/static/media/toggle-todo.9fce5df3312959449065.svg",
+    "main.176d35e4.css.map": "/todo-react-redux--router/static/css/main.176d35e4.css.map",
+    "main.4fb8c636.js.map": "/todo-react-redux--router/static/js/main.4fb8c636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176d35e4.css",
+    "static/js/main.4fb8c636.js"
+  ]
+}
